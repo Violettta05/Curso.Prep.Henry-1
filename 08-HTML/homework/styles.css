@@ -1,0 +1,22 @@
+styles.css
+
+
+
+H1 {
+       color:blueviolet  
+    }
+     img {
+         width: 400 px;
+     }
+
+     #thirdDiv {
+         heigth: 500 px;
+         width: 600 px;
+         background-color: purple;
+         padding: 50px;
+     }   border: 50px solid white;
+
+     #spanId {
+         font-size: 18px;
+         margin: 50px;
+     }
